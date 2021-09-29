@@ -1,3 +1,8 @@
+# Scrumboard dashboard
+
+**WARNING: THIS IS VERY WIP AND VERY IN FRENCH :)**
+
+
 TODO:
 * Calendrier
     * (EPIC) Pouvoir ajouter des présences/absences
